@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+      <meta charset="UTF-8">
+      <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chocolate Cake Recipe</title>
+</head>
+<body>
+  <h1>Chocolate Cake Recipe</h1>
+
+  <p>
+    This delicious chocolate cake is easy to make and perfect for any occasion.
+  </p>
+
+  <img
+    src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"
+    alt="A chocolate cake on a plate"
+  >
+
+  <h2>Ingredients</h2>
+
+  <ul>
+    <li>2 cups flour</li>
+    <li>1 cup sugar</li>
+    <li>3 eggs</li>
+    <li>1 cup milk</li>
+  </ul>
+
+  <h2>Instructions</h2>
+
+  <ol>
+    <li>Preheat the oven to 180°C.</li>
+    <li>Mix all the ingredients in a bowl.</li>
+    <li>Pour the mixture into a baking pan.</li>
+    <li>Bake for 35 minutes.</li>
+  </ol>
+</body>
+</html>
